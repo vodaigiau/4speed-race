@@ -4,7 +4,6 @@
   display: grid;
   grid-template-columns: 1fr 45%;
   height: 100vh;
-
   @include mid-break {
     grid-template-columns: 1fr;
     background-size: cover;
