@@ -20,5 +20,5 @@ const CategoryCard = ({ category }: CategoryCardProps) => {
         </Link>
   )
 }
-
+14732
 export default CategoryCard
