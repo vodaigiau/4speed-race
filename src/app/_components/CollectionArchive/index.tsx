@@ -175,7 +175,7 @@ export const CollectionArchive: React.FC<Props> = props => {
       <Fragment>
         {showPageRange !== false && populateBy !== 'selection' && (
           <div className={classes.pageRange}>
-            <PageRange
+            <PageRange 
               collection={relationTo}
               currentPage={results.page}
               limit={limit}
