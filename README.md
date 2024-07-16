@@ -35,6 +35,8 @@
 
 ![image](https://github.com/user-attachments/assets/4337b292-6069-4dff-b769-5c71bfb62d79)
 
+![image](https://github.com/user-attachments/assets/b316df36-a37c-432d-a2d8-a87e3490ef71)
+
 
 # Payload E-Commerce Template
 
